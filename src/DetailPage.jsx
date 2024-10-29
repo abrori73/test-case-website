@@ -47,7 +47,7 @@ const DetailPage = () => {
         <Stack 
             justifyContent="flex-start" 
             alignItems="center" 
-            style={{ width: '100vw', minHeight: '100vw', backgroundColor: '#F0F0F0' }}
+            style={{ width: '100vw', minHeight: '100vh', backgroundColor: '#F0F0F0' }}
         >
             <Stack
                     direction="row"
